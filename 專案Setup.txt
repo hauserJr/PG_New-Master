@@ -1,0 +1,23 @@
+安裝nodejs
+
+npm -v 確認版本
+
+
+npm update
+
+npm install -g @angular/cli
+
+cd to Angular專案底下
+
+
+npm install
+
+npm i npm@latest -g
+
+npm install
+
+npm audit fix
+
+ng -v 確認ng版本
+
+ng serve
